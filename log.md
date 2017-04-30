@@ -11,7 +11,7 @@
 
 2.JS 
 * Basic Aglorithm JS: Return Largest Numbers in Arrays.
-  Must read: 
+Must read: 
     * [Math.max()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/max)
     * [Function.prototype.apply()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function/apply)
     * [Three ways you can find the largest number in an array using JavaScript](https://medium.freecodecamp.com/three-ways-to-return-largest-numbers-in-arrays-in-javascript-5d977baa80a1)
