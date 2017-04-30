@@ -1,6 +1,6 @@
-#CODING JOURNAL
+# CODING JOURNAL
 
-##Day 1; 
+## Day 1; 
 ### 30/4/2017
 
 1. HTML&CSS:
