@@ -13,9 +13,9 @@
 2.JS 
 * Basic Aglorithm JS: Return Largest Numbers in Arrays.
 * Must read: 
-    * [Math.max()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/max)
-    * [Function.prototype.apply()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function/apply)
-    * [Three ways you can find the largest number in an array using JavaScript](https://medium.freecodecamp.com/three-ways-to-return-largest-numbers-in-arrays-in-javascript-5d977baa80a1)
+    * [ ] [Math.max()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/max)
+    * [ ] [Function.prototype.apply()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function/apply)
+    * [ ] [Three ways you can find the largest number in an array using JavaScript](https://medium.freecodecamp.com/three-ways-to-return-largest-numbers-in-arrays-in-javascript-5d977baa80a1)
     
 3. Projects:
 * Splash page: Done layout. 
@@ -27,8 +27,9 @@
   * ALL ABOUT CSS SHAPES
     - [ ] [Working with Shapes in Web Design](https://css-tricks.com/working-with-shapes-in-web-design/)
     - [ ] [The Shapes of CSS](https://css-tricks.com/examples/ShapesOfCSS/)
-    https://css-tricks.com/almanac/properties/s/shape-outside/
-    https://css-tricks.com/almanac/properties/c/clip/
+    - [ ] https://css-tricks.com/almanac/properties/s/shape-outside/
+    - [ ] https://css-tricks.com/almanac/properties/c/clip/
+    - [ ] https://css-tricks.com/clipping-masking-css/
     - Links to work: 
     
 
