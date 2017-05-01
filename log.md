@@ -30,6 +30,7 @@
     - [ ] https://css-tricks.com/almanac/properties/s/shape-outside/
     - [ ] https://css-tricks.com/almanac/properties/c/clip/
     - [ ] https://css-tricks.com/clipping-masking-css/
+    - [ ] [getting start with CSS shapes](https://www.html5rocks.com/en/tutorials/shapes/getting-started/)
     - Links to work: 
     
 
