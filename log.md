@@ -19,5 +19,13 @@
     
 3. Projects:
 * Splash page: Done layout. 
+
+## Day 1; 
+### 01/05/2017
+
+1. HTML&CSS: 
+  * Read: [Working with Shapes in Web Design](https://css-tricks.com/working-with-shapes-in-web-design/)
+    - [The Shapes of CSS](https://css-tricks.com/examples/ShapesOfCSS/)
     
+
 
