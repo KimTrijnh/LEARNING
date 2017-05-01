@@ -24,9 +24,11 @@
 ### 01/05/2017
 
 1. HTML&CSS: 
-  * Read: 
+  * ALL ABOUT CSS SHAPES
     - [ ] [Working with Shapes in Web Design](https://css-tricks.com/working-with-shapes-in-web-design/)
     - [ ] [The Shapes of CSS](https://css-tricks.com/examples/ShapesOfCSS/)
+    https://css-tricks.com/almanac/properties/s/shape-outside/
+    https://css-tricks.com/almanac/properties/c/clip/
     - Links to work: 
     
 
