@@ -20,7 +20,7 @@
 3. Projects:
 * Splash page: Done layout. 
 
-## Day 1; 
+## Day 2; 
 ### 01/05/2017
 
 1. HTML&CSS: 
@@ -33,6 +33,19 @@
     - [x] [getting start with CSS shapes](https://www.html5rocks.com/en/tutorials/shapes/getting-started/)
     - [x] [CSS3 properties ordering](https://css-tricks.com/ordering-css3-properties/) **rule of thumb: the vendor prefixes first!**
     - Links to work: 
+    splash page: finish form section
     
+    ## Day 3; 
+### 01/05/2017
+
+1. HTML&CSS: 
+  * 
+    - [x] [Lesson1:Building your first website](http://learn.shayhowe.com/html-css/building-your-first-web-page/) **CSS RESET**
+    - [x] [CSS3 properties ordering](http://learn.shayhowe.com/html-css/opening-the-box-model/)
+        - **note: inline-elements lack some of box-model properties, can't set width. height. no border, no margin-top/bottom; method to set box-sizing to border-box;** 
+
+2. JS
+  - [x] [continue FCC Basic Aglorithm]()
+    - Links to work: 
 
 
