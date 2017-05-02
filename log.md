@@ -43,6 +43,7 @@
     - [x] [Lesson1:Building your first website](http://learn.shayhowe.com/html-css/building-your-first-web-page/) **CSS RESET**
     - [x] [CSS3 properties ordering](http://learn.shayhowe.com/html-css/opening-the-box-model/)
         - **note: inline-elements lack some of box-model properties, can't set width. height. no border, no margin-top/bottom; method to set box-sizing to border-box;** 
+    - [x] [Flexbox-everything you need to know](https://medium.freecodecamp.com/understanding-flexbox-everything-you-need-to-know-b4013d4dc9af)
 
 2. JS
   - [x] [continue FCC Basic Aglorithm]()
