@@ -47,6 +47,9 @@
 
 2. JS
   - [x] [continue FCC Basic Aglorithm]()
-    - Links to work: 
+  - [x] [str.substr(indexStart, length)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/substr)
+      - [str.substring](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/substring)
+      - [array.reduce(function(a,b){return Math.max(a,b);})](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/Reduce)
+            - Links to work: 
 
 
