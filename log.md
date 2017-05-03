@@ -73,7 +73,7 @@
     
     
   - Layout: 70%. Link to work: https://codepen.io/XixianEtter/pen/wdqGaX?editors=1100
-      - Thoughts: gaining during the project: background, typo, when using vw is useful, apply positioning and flexbox makes it easier to make the layout. Still confused how to name selector, some classes even are not touch. still consfuse about the order of setting style. setting from the top to bottom or which sequence will give the best practise?
+      - Thoughts: gaining during the project: background, typo, when using vw is useful, apply positioning and flexbox makes it easier to make the layout. Still confused how to name selector, some classes even are not touch. still consfuse about the order of setting style. setting from the top to bottom or which sequence will give the best practice?
 
     
 
