@@ -36,7 +36,7 @@
     splash page: finish form section
     
     ## Day 3; 
-### 01/05/2017
+### 02/05/2017
 
 1. HTML&CSS: 
   * 
@@ -51,5 +51,34 @@
       - [str.substring](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/substring)
       - [array.reduce(function(a,b){return Math.max(a,b);})](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/Reduce)
             - Links to work: 
+
+ ## Day 4; 
+### 03/05/2017
+
+1. HTML&CSS: 
+  * 
+    - [x] 
+    - [x] 
+    - [x] 
+#### Project: clone http://slack.unsplash.com/
+
+ - images [x]
+ - layout -index.html [ ]
+ - style-style.css [ ]
+ - launch in github page [ ]
+- Usefull links:
+  - Custom input bar: https://webdesign.tutsplus.com/tutorials/css-experiments-with-a-search-form-input-and-button--cms-22069
+  - create typing animation with css: https://css-tricks.com/snippets/css/typewriter-effect/
+  - https://www.youtube.com/watch?v=1UVtdMXsK2k
+    
+    
+      - Layout: 70%. Link to work: https://codepen.io/XixianEtter/pen/wdqGaX?editors=1100
+      
+    
+
+2. JS
+  - [x] [continue FCC Basic Aglorithm]()
+  - [x] YDKJS up&going: intojS 
+  
 
 
