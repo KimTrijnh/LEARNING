@@ -1,3 +1,5 @@
+Note: if you visit and read my Journal, sorry that I didn't write it in decent English. My focus was on the content what I would gain along the process and to be honest, I'm not good at writing. Enjoy coding. 
+
 # CODING JOURNAL
 
 ## Day 1; 
