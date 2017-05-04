@@ -11,6 +11,25 @@
 |7  |clone [paypal splash page](https://www.paypal.com/slack/) |                |    |
 |8   | porfolio page |                             |     |
 |9   | radom joke story |                                   |              |
+|10  | clone googles |                                      |              |
+
+
+
+
+
+
+
+
+
+
+
+## Long-run-Project
+
+| No       | Project            | Link to work                                        | comment       |
+| -------- |:------------------:| :--------------------------------------------------:|--------------:|
+| 1        | Gitfriends         |               |               |
+| 2        |                    |         |               |
+
 
 
  
