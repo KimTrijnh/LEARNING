@@ -83,5 +83,16 @@ Note: if you visit and read my Journal, sorry that I didn't write it in decent E
   - [x] [continue FCC Basic Aglorithm]()
   - [x] YDKJS up&going: intojS 
   
+ ## Day 5; 
+### 03/05/2017
+
+1. HTML&CSS: 
+  * 
+    - [x] the Dog HTML http://htmldog.com/ 
+    - [x] draft layout of google cloning page from the ODINproject
+    
+2. JS
+  - [x] [continue FCC Basic Aglorithm]()
+  - [x] equolentJS. **Thought**: sometimes reading throught the pages feeling like just be born to the world :S. especially it is not written in my mother tongue. huhu
 
 
