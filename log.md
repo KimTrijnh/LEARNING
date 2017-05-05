@@ -84,7 +84,7 @@ Note: if you visit and read my Journal, sorry that I didn't write it in decent E
   - [x] YDKJS up&going: intojS 
   
  ## Day 5; 
-### 03/05/2017
+### 04/05/2017
 
 1. HTML&CSS: 
   * 
@@ -94,5 +94,11 @@ Note: if you visit and read my Journal, sorry that I didn't write it in decent E
 2. JS
   - [x] [continue FCC Basic Aglorithm]()
   - [x] equolentJS. **Thought**: sometimes reading throught the pages feeling like just be born to the world :S. especially it is not written in my mother tongue. huhu
+
+ ## Day 6; 
+### 05/05/2017
+1. JS
+  -  FCC basic Aglorithm;
+  -  
 
 
