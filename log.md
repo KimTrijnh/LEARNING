@@ -99,6 +99,9 @@ Note: if you visit and read my Journal, sorry that I didn't write it in decent E
 ### 05/05/2017
 1. JS
   -  FCC basic Aglorithm;
-  -  
+ ## Day 7;
+### 06/05/2017
+1. JS 
+  - Finished FCC basic Aglorithm;
 
 
