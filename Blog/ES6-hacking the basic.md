@@ -15,7 +15,7 @@
 
 
 ### Examples
-1. variables by var, let and const
+1. variables by `var`  `let` and `const`
  
  ``` 
   for ( i=0; i<10; i++) {
