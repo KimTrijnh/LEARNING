@@ -16,7 +16,9 @@
 
 ### Examples
 1. variables by `var`  `let` and `const`
- 
+ - `var`
+ - `let` will limit the use of variable inside a statement, a block, a expression. 
+ - `const`: variables can not be reassigned. Objects such as array can not re-assigned but can be mutable by adjust/modify individual items.
  ``` 
   for ( i=0; i<10; i++) {
 var a = i +2; 
@@ -40,4 +42,13 @@ var a = i +2;
 }
 console.log(a);
 plus(); // return 13
+```
+```
+for ( i=0; i<10; i++) {
+var a = i +2; 
+let b;
+      b = a+2; // b only can used in the for loop
+   }
+console.log(a); 11
+console.log(b); return error
 ```
