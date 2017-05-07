@@ -14,3 +14,18 @@
   
 
 
+### Examples
+1. variables by var, let and const
+  ``` for ( i=0; i<10; i++) {
+var a = i +2; 
+}
+
+console.log(a); // return 11
+
+
+for ( i=0; i<10; i++) {
+let a = i +2;  // return error 
+}
+
+console.log(a);
+```
