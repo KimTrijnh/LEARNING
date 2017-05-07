@@ -28,3 +28,16 @@ let a = i +2;
 }
 console.log(a); // return error 
 ```
+```for ( i=0; i<10; i++) {
+var a = i +2; 
+  
+  function plus() {
+    var b = a+2; // b is only locally used in block of plush
+    console.log(b);
+  }
+  
+ 
+}
+console.log(a);
+plus(); // return 13
+```
