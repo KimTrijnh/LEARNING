@@ -14,9 +14,9 @@ Responsive design nghĩa là thiết kế web cho sử dụng được với t�
   - Sử dụng các kỹ thuật tạo layout: grid/flexbox. 
   - Hoặc sử dụng các framework có 1 hệ thống grid tối ưu: ví dụ bootstrap, foundation, etc...
   
-#### Step-by-step layout design
+## Step-by-step layout design
 
-##### Layout & modules
+### Layout & modules
 1. setting the viewport
   ```
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -36,15 +36,26 @@ Responsive design nghĩa là thiết kế web cho sử dụng được với t�
   
  3. Tiếp theo dùng media query theo kích thước screen khác. ( tạo break points)
   - Ưu tiên thiết kế mobile first
-  - màn hình cho table
-```
-@media only screen and (min-width: 600px)
-```
+  - màn hình cho table 
+  ```@media only screen and (min-width: 600px)```
   - màn hình cho desktop
   ```@media only screen and (min-width: 768px) ```
   - lanscape mode 
   ```@media only screen and (orientation: landscape)```
 
-  
+ ### Các components khác
+ 1. image/video
+ ```
+ img/video {
+    max-width: 100%;
+    height: auto;
+ }
+```
+  -  img background
+  - sử dụng `min-device-width` thay vì `min-width`
+  ```
+  @media only screen and (min-device-width: 400px)
+  ```
+ 
 
 
