@@ -10,7 +10,7 @@
 |6   | clone MDN bot| - https://medium.com/chingu/mdnbot-coding-journey-b20316a88163 - https://vejather.github.io/mdn-bot-landing-page/| |
 |7  |clone [paypal splash page](https://www.paypal.com/slack/) |                |    |
 |8   | porfolio page |                             |     |
-|9   | radom joke story |                                   |              |
+|9   | radom joke story-MDN | http://s.codepen.io/XixianEtter/debug/bWMvEg/vWMRwnapZnnr                                  |     done-13/5/17         |
 |10  | clone googles |                                      |              |
 
 
