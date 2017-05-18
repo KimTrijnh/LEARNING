@@ -11,17 +11,29 @@ console.log(a) // 2
 if(true) {
 let a=2; }
 console.log(a) // error a not defined yet
-
 ```
+
 2. `const` have same feature like `let` but a constant variable can not be updated
 
 ```
 const TAX =0.1;
 TAX = 0.2; // error
-
 ```
 
-3. Arrow function `()=> some results` or `(arg1, arg2) => some results;`
+**Note**: we can not change the constant variable value. But if variable is an object ( array, object, function), it can be updated. 
+```
+const Arr =[1,2,3];
+Arr =[2,3]; //error
+Arr.push(4);  //ok
+Arr; // [1,2,3,4]
+
+const foo =(a) => a*2;
+foo = () =>4; //error;
+foo(2); //4
+foo(3); //6 -> value can be updated.
+```
+
+3. **Arrow function** `()=> some results` or `(arg1, arg2) => some results;`
 
 ```
 var square = function (a) {
@@ -30,7 +42,7 @@ return a*a; }
 var square = (a) => a*a;
 ```
 
-4. Default parameter: when no argument is passed to function parameter, argument will take the default value
+4. **Default parameter**: when no argument is passed to function parameter, argument will take the default value
 
 ```
 var hello = function(name="buddy") { return "Hello" + name; }
@@ -41,12 +53,24 @@ var hello =(name="buddy") => "Hello" + name;
 hello("Linh); // Hello Linh
 hello(); // Hello buddy   <= return default name
 ```
-5. Rest Operator `...args`. No need to know how many and which parameters of a function, use '...args' then the arguments of the function are ** stored in an array **.
+5. **Rest Operator** `...args`. No need to know how many and which parameters of a function, use '...args' then the arguments of the function are **stored in an array**.
 
 ```
 var numberOfArgument= (...args) => args.length;
-numberOfArgument("string",2,null, undefined); // 4   (arguments stored in an array args=["string",2,null, undefined] )
+numberOfArgument("string",2,null, undefined); // 4   
+(arguments stored in an array args=["string",2,null, undefined] )
 ```
 
+6. **Spread array**: by **Spead operator** unpack an array into a chain of string. 
+```
+var arr1 =["name",25,"pink"];
+var arr2 =["rock",...arr1] 
+arr2; //["rock","name",25,"pink"]
 
+var arr = [6, 89, 3, 45];
+var maximus = Math.max.apply(null, arr); // returns 89
+const arr = [6, 89, 3, 45];
+const maximus = Math.max(...arr); // returns 89
+```
+**NOTE**: the spread operator only works in-place, meaning that `...arr` only put in `(...arr)` of a function/method or `[...arr]` of other arrays.
 
