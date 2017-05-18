@@ -74,3 +74,8 @@ const maximus = Math.max(...arr); // returns 89
 ```
 **NOTE**: the spread operator only works in-place, meaning that `...arr` only put in `(...arr)` of a function/method or `[...arr]` of other arrays.
 
+
+7. **Destructuring Assignment** for an Object and nested Object
+
+
+8. **Destructuring Assignment** for an Array
