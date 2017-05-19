@@ -19,6 +19,6 @@
 7. Short term to do, 1 week
 - [ ] Bootstrap
 - [ ] Sass
-- [ ] 
-- [ ] 
-- [ ] 
+- [ ] ES6
+- [ ] Jquery
+
