@@ -87,4 +87,27 @@ console.log(a,b)// 1,2
 console.log(arr); //[3,4,5,6,7,8,9]
 ```
 
-10. 
+10. **Destructuring Assignment** as function's parameter `const foo =({a,b}) => some results; `
+
+11. **Template Literal** ` `it is a template ${variable}` `
+- `+ variable` replaced by ${variable}
+- template literal can be multiline
+```
+const person = {
+  name: "Zodiac Hasbro",
+  age: 56
+};
+
+// string interpolation
+const greeting = `Hello, my name is ${person.name}!
+I am ${person.age} years old.`;
+
+console.log(greeting); // prints
+// Hello, my name is Zodiac Hasbro!
+// I am 56 years old.
+```
+12. Write Concise Object Literal Declarations Using Simple Fields
+```
+const createPerson = (name, age, gender) => ({name,age,gender});
+console.log(createPerson("Zodiac Hasbro", 56, "male")); // returns a proper object
+```
