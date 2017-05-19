@@ -79,3 +79,12 @@ const maximus = Math.max(...arr); // returns 89
 
 
 8. **Destructuring Assignment** for an Array
+
+9. Combine **Destructuring Assignment** & **Rest Operator** `const [a,b,...arr] =[1,2,3,4,5,6,7,8,9]`
+```
+const [a,b,...arr] =[1,2,3,4,5,6,7,8,9]
+console.log(a,b)// 1,2
+console.log(arr); //[3,4,5,6,7,8,9]
+```
+
+10. 
