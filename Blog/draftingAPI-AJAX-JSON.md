@@ -27,4 +27,6 @@ Sau khi đọc qua các phần trên mình có API key là "12345",trong phần 
 - Nếu dùng JS
 
 - Nếu dùng Jquery
-
+$.ajax({url: "api.openweathermap.org/data/2.5/weather?q=London&APPID=77568c9efb020853b762ebb0f8b6de03", error: function(xhr){
+            alert("An error occured: " + xhr.status + " " + xhr.statusText);
+        }});
