@@ -1,4 +1,4 @@
-### HƯỚNG DẪN API-AJAX-JSON CƠ BẢN
+### HƯỚNG DẪN API-AJAX-JSON CƠ BẢN (drafting)
 
 [web App bất kỳ cung cấp ** API tool ** cho phép người khác access vô data của họ, data này sẽ có dạng file info (vd. JSON, XML, JSONP)
 - ví dụ: facebook API, twitter API, openweather API...
